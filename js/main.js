@@ -51,10 +51,10 @@ const CONFIG = {
   // ---- Executive board ----
   // photo: path like "assets/board/jane.jpg" (optional — initials are shown if blank)
   board: [
-    { name: "Your Name", role: "President", major: "Major, Class of 20XX", photo: "" },
-    { name: "Your Name", role: "Vice President", major: "Major, Class of 20XX", photo: "" },
-    { name: "Your Name", role: "Treasurer", major: "Major, Class of 20XX", photo: "" },
-    { name: "Your Name", role: "Events Chair", major: "Major, Class of 20XX", photo: "" },
+    { name: "Humza Murad", role: "President", major: "Electrical Engineering, Class of 2027", photo: "" },
+    { name: "Abdullah Ahsan", role: "Vice President - Head of Treasury and Events", major: "Computer Science, Class of 2027", photo: "" },
+    { name: "Taha Farooqi", role: "Vice President - Head of Outreach", major: "Psychology, Class of 2027", photo: "" },
+    { name: "Baasit Mahmood", role: "Events Chair", major: "BioEngineering, Class of 2028", photo: "" },
   ],
 };
 
